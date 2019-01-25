@@ -1,4 +1,5 @@
-# “默克”杯逆合成反应预测大赛/Merck_2019-Retrosynthetic_Prediction
+# [“默克”杯逆合成反应预测大赛/Merck_2019-Retrosynthetic_Prediction](https://github.com/bochuanwu/Merck_2019-Retrosynthetic_Prediction)
+
 
 #比赛链接/The Competition Address:[link](https://www.kesci.com/home/competition/5c35b0aa4ea711002cafcaa6)
 
