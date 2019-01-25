@@ -34,9 +34,9 @@
 
 #数据分析，预处理/data analysis, Preprocessing：
 
- 绝大多数化学式产物数都小于6：
+ 绝大多数化学式产物数都小于6：  
  product_num_count: [(1, 1029164), (2, 74762), (3, 6928), (4, 1266), (5, 377), (6, 88), (7, 43), (8, 22), (9, 3), (10, 3), (13, 1)]  
  
- 反应产物以及反应物的长度分布：
+ 反应产物以及反应物的长度分布：  
  ![error](https://github.com/bochuanwu/Merck_2019-Retrosynthetic_Prediction/raw/master/img/plwt2q22e.png)  
       
