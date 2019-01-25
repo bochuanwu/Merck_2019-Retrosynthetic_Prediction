@@ -16,3 +16,13 @@
 测试集(test Data):
 277,746个化学反应 / 277,746 reactions
 
+
+#可能性尝试/Possible solution:
+1. sequence2sequence
+2. Translator
+3. ????
+
+#参考代码及灵感/reference paper and code:
+1. [Schwaller, Philippe, et al. "“Found in Translation”: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models." Chemical science 9.28 (2018): 6091-6098](https://github.com/frnsys/retrosynthesis_planner)
+
+2. Bowen,Ramsundar,et al. "Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models"
