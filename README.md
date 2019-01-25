@@ -32,7 +32,7 @@
 4. 论文/papper [Linking the Neural Machine Translation and the Prediction of Organic Chemistry Reactions](https://arxiv.org/abs/1612.09529)
 
 
-#数据分析，预处理/data analysis, Preprocessing：
+#数据分析，预处理/data analysis, Preprocessing：  
  绝大多数化学式产物数都小于6：  
  product_num_count: [(1, 1029164), (2, 74762), (3, 6928), (4, 1266), (5, 377), (6, 88), (7, 43), (8, 22), (9, 3), (10, 3), (13, 1)]  
  
