@@ -10,7 +10,7 @@
 {ID，反应物1.反应物2.反应物3...>反应试剂1.反应试剂2...>反应产物1.反应产物2.反应产物3...
 {ID, reactants1/reactants2...>reagents1.reagents2...>production1.production2.production3...
 
-3.数据内容/Dataset content：
+3. 数据内容/Dataset content:
 训练集(training Data)
 1,112,557个化学反应
 1,112,657 reactions 
