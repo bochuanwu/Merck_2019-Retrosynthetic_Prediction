@@ -38,5 +38,5 @@
  product_num_count: [(1, 1029164), (2, 74762), (3, 6928), (4, 1266), (5, 377), (6, 88), (7, 43), (8, 22), (9, 3), (10, 3), (13, 1)]
  
  反应产物以及反应物的长度分布：
- ![Image text](https://github.com/bochuanwu/Merck_2019-Retrosynthetic_Prediction/img/plwt2q22e.png)
+ ![Image text](https://raw.github.com/bochuanwu/Merck_2019-Retrosynthetic_Prediction/img/plwt2q22e.png)
       
