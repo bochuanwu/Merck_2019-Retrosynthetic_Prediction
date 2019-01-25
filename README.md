@@ -11,11 +11,8 @@
 {ID, reactants1/reactants2...>reagents1.reagents2...>production1.production2.production3...
 
 3. 数据内容/Dataset content:
-训练集(training Data)
-1,112,557个化学反应
-1,112,657 reactions 
-
-测试集(test Data)
-277,746个化学反应
-277,746 reactions
+训练集(training Data):
+1,112,557个化学反应 / 1,112,657 reactions 
+测试集(test Data):
+277,746个化学反应 / 277,746 reactions
 
